@@ -10,13 +10,17 @@ primary = "#1565c0"
 # Menu
 menu_primary = "#C4E0E5"
 menu_text = "#4E686C"
-menu_text_active = "#2962ff"
+menu_text_active = "#183236"
 menu_title = "#183236"
+
+# link = "#4CA1AF"
+
+link = "rgba(61, 147, 161, 1)"
+link_hover = "#183236"
+link_decoration = "underline"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_even = "#f7f7f7"
 
-[dark]
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+font = "rose"
