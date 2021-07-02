@@ -1,5 +1,5 @@
 ---
-title: Happy to announce that I have successfully defended my Master's thesis with a Excellent score 🎉
+title: Happy to announce that I have successfully defended my Master's thesis with an Excellent score 🎉
 subtitle: I have successfully defended my Mater's thesis. My Master's thesis topic was Model-Driven Methodology for Developing RESTful Web Services.
 
 # Summary for listings and search engines
