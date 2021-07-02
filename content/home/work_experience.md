@@ -22,28 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Full-Stack Engineer
+    company: TubeIn Technologies LLC
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Remotely
+    date_start: '2021-02-01'
+    date_end: '2021-07-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Design Architectures
+        * Develop the Back-end by Hasura + NestJs 
+        * Develop 3D Playground by React-three-fiber
+        * Create a CRON Jobs
+        * Handle CI/CD works
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Front-End Engineer
+    company: Dideo
+    company_url: 'www.dideo.tv'
+    company_logo: dideo
+    location: Tehran
+    date_start: '2020-06-01'
+    date_end: '2020-09-30'
+    description: I worked Part-time as Front-End Engineer at Dideo. During this project, we developed a Video on demand (VOD) system for Irancell. 
 
 design:
   columns: '2'
