@@ -34,7 +34,7 @@ education:
     institution: Sharif University of Technology
     year: 2021
   - course: BSc in Software Engineering
-    institution: University of Technology
+    institution: University of Guilan
     year: 2018
 
 # Social/Academic Networking
