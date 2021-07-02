@@ -44,7 +44,7 @@ experience:
     location: Tehran
     date_start: '2020-06-01'
     date_end: '2020-09-30'
-    description: I worked Part-time as Front-End Engineer at Dideo. During this project, we developed a Video on demand (VOD) system for Irancell. 
+    description: I worked Part-time as a Front-End Engineer at Dideo. During this project, we developed a video on demand (VOD) system for Irancell. 
 
 design:
   columns: '2'

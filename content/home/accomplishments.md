@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Honors And Awards'
@@ -31,7 +31,7 @@ item:
   organization_url: 
   title: Ranked 1st in Cumulative GPA among all students in Computer Engineering
   url: ""
-  
+
 - certificate_url: 
   date_end: ""
   date_start: "2018-01-01"

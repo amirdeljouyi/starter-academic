@@ -6,12 +6,12 @@ title: Amirhossein Deljouyi
 superuser: true
 
 # Role/position/tagline
-role: Researcher of Sharif University of Technology
+role: Researcher/Software Engineer
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+# organizations:
+# - name: Stanford University
+#   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I’m a student, web developer. Now on the road to be a software architect, trying to grow my skill set.
@@ -19,10 +19,10 @@ bio: I’m a student, web developer. Now on the road to be a software architect,
 # Interests to show in About widget
 interests:
 - Software Engineering
-- Empirical Software Engineering
 - Software Architecture
-- Machine Learning
 - Software Testing
+- Empirical Software Engineering
+- Machine Learning
 - Automatic Code Generation
 - Model-Driven Development
 - Domain Driven Development
@@ -54,6 +54,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/amir-deljouyi-3b929661/
+- icon: medium
+  icon_pack: fab
+  link: https://amirdeljouyi.medium.com/
+- icon: virgool
+  icon_pack: custom
+  link: https://virgool.io/@amirdeljouyi
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,6 +75,4 @@ email: "amirdeljouyi@gmail.com"
 highlight_name: false
 ---
 
-Amirhossein Deljouyi is a Software Engineer. He graduated MSc at Sharif University of Technology and BSc at University of Guilan, both in Software Engineering. His research interests are combination of Software Engineering and AI. Also, He enjoys about all phases of software development lifecyle, including Software Design, Software Testing. He work as Full-Stack Engineer, and get experienced in industry.
-<!-- 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+Amirhossein Deljouyi is a Software Engineer. He has finished his MSc at Sharif University of Technology and BSc at the University of Guilan, both in Software Engineering. His research interests are a combination of Software Engineering and AI. Also, He enjoys all phases of the software development lifecycle, including Software Design, Software Testing. He works as a Full-Stack Engineer and gets experienced in the industry.
