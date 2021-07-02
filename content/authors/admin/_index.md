@@ -75,4 +75,8 @@ email: "amirdeljouyi@gmail.com"
 highlight_name: false
 ---
 
-Amirhossein Deljouyi is a Software Engineer. He has finished his MSc at Sharif University of Technology and BSc at the University of Guilan, both in Software Engineering. His research interests are a combination of Software Engineering and AI. Also, He enjoys all phases of the software development lifecycle, including Software Design, Software Testing. He works as a Full-Stack Engineer and gets experienced in the industry.
+I am Amirhossein Deljouyi, a Researcher and Software Engineer. I have finished my MSc at Sharif University of Technology and BSc at the University of Guilan, both in Software Engineering.
+
+My research interests are a combination of Software Engineering and AI. Also, I enjoy all phases of the software development lifecycle, including Software Design, Software Testing. I have worked as a Full-Stack Engineer, and I have gotten experienced in the industry.
+
+Feel free to fire a message to me! 😊
