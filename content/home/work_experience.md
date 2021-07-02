@@ -34,7 +34,7 @@ experience:
         * Design Architectures
         * Develop the Back-end by Hasura + NestJs 
         * Develop 3D Playground by React-three-fiber
-        * Create a CRON Jobs
+        * Create CRON Jobs
         * Handle CI/CD works
         
   - title: Front-End Engineer
