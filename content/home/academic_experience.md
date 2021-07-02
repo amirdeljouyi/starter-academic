@@ -30,7 +30,7 @@ experience:
     date_start: '2019-02-20'
     date_end: '2021-03-05'
     description: |2-
-        Supervised by: Dr. Ramsin
+        Advisor: [Dr. Raman Ramsin](http://sharif.edu/~ramsin/)
         
   - title: "Bachelor's Thesis: Evolutionary Algorithms Applied to The Graph Coloring Problem"
     company: University of Guilan
@@ -40,7 +40,7 @@ experience:
     date_start: '2018-02-01'
     date_end: '2018-09-30'
     description: |2-
-      Supervised by: Dr. Mirroshandel
+      Advisor: [Dr. Seyed Abolghasem Mirroshandel](http://staff.guilan.ac.ir/mirroshandel)
 
 design:
   columns: '2'
