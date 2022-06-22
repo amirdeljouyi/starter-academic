@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: "PhD's Thesis: Automatic Generation Low-level tests from High-level"
+    company: TestShift Lab at TU Delft
+    company_url: 'https://testshiftproject.github.io/'
+    company_logo: tudelft
+    location: Delft
+    date_start: '2022-05-01'
+    description: |2-
+        Advisor: [Prof. Andy Zaidman](https://azaidman.github.io/)
+
   - title: "Master's Thesis: Model-Driven Methodology for Developing RESTful Web Services"
     company: ME Lab at Sharif University of Technology
     company_url: 'http://me.ce.sharif.edu/people/Deljouyi.htm'

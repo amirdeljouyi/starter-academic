@@ -14,14 +14,14 @@ role: Researcher/Software Engineer
 #   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m a student, web developer. Now on the road to be a software architect, trying to grow my skill set.
+bio: I am a Ph.D. Student in Computer Science at TU Delft, and I'm working on the TestShift project
 
 # Interests to show in About widget
 interests:
 - Software Engineering
-- Software Architecture
 - Software Testing
 - Empirical Software Engineering
+- Software Architecture
 - Machine Learning
 - Automatic Code Generation
 - Model-Driven Development
@@ -30,6 +30,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Software Testing
+    institution: TU Delft
+    year: 2026
   - course: MSc in Software Engineering
     institution: Sharif University of Technology
     year: 2021
@@ -75,7 +78,7 @@ email: "amirdeljouyi@gmail.com"
 highlight_name: false
 ---
 
-I am Amirhossein Deljouyi, a Researcher and a Software Engineer. I have finished my MSc at Sharif University of Technology and BSc at the University of Guilan, both in Software Engineering.
+I am Amirhossein Deljouyi, a Researcher and a Software Engineer. I am a Ph.D. Student in Computer Science at TU Delft, and I'm working on the TestShift project. I have finished my MSc at Sharif University of Technology and BSc at the University of Guilan, both in Software Engineering.
 
 My research interests are a combination of Software Engineering and AI. Also, I enjoy all phases of the software development lifecycle, including Software Design, Software Testing. I have worked as a Full-Stack Engineer, and I have gotten experienced in the industry.
 
